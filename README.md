@@ -17,6 +17,5 @@ A clone of Flappy Bird, the game, created using Python 3 and the pygame module.
 ```    
 ## Screenshots
 
-![Screenshot 1](https://user-images.githubusercontent.com/66397721/150843525-e4ed05f6-2ac6-4069-be2f-c55d50833fcc.png)
-
+![Screenshot 1](https://user-images.githubusercontent.com/66397721/150843778-cfd88647-0124-426c-9010-cce477fbcd7e.png)
 
